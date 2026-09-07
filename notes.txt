@@ -1,1 +1,2 @@
 Learning git and bash
+I am learning how to use Git for version control
